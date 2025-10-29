@@ -22,4 +22,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/kowshik76/Leetcode-Mysql/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/kowshik76/Leetcode-Mysql/tree/master/1827-invalid-tweets) |
 | [2087-confirmation-rate](https://github.com/kowshik76/Leetcode-Mysql/tree/master/2087-confirmation-rate) |
+## String
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kowshik76/Leetcode-Mysql/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kowshik76/Leetcode-Mysql/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kowshik76/Leetcode-Mysql/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kowshik76/Leetcode-Mysql/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kowshik76/Leetcode-Mysql/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kowshik76/Leetcode-Mysql/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
